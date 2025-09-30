@@ -5,4 +5,3 @@
 #+OPTIONS: toc:2
 #+OBS: You can reproduce this by watching the DT tutorial on youtube
 
-* LEXLIB
