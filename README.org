@@ -1,0 +1,8 @@
+#+TITLE: LEXLIB
+#+AUTHOR: Wellyton Barbosa Galdino
+#+DESCRIPTION: a simple lexer for lua
+#+STARTUP: showeverything
+#+OPTIONS: toc:2
+#+OBS: You can reproduce this by watching the DT tutorial on youtube
+
+* LEXLIB
